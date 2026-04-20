@@ -1,1 +1,6 @@
 # AI-Agent-Registry
+Requirements:
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==1.10.15
+ 
